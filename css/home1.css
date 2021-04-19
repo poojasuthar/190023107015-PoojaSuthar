@@ -62,8 +62,7 @@ td{
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
 body{
-  background: -webkit-linear-gradient(left, #E2BAB1,#F08D7E);
-  background: linear-gradient(to right, #E2BAB1,#F08D7E);
+  background-image:url('bg.gif'); 
   font-family: 'Roboto', sans-serif;
   
 }
